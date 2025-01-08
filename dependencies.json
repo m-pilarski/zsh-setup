@@ -1,0 +1,6 @@
+[
+    {"dep_class": "plugins", "user_name": "zsh-users", "repo_name": "zsh-syntax-highlighting"},
+    {"dep_class": "plugins", "user_name": "zsh-users", "repo_name": "zsh-history-substring-search"},
+    {"dep_class": "plugins", "user_name": "zsh-users", "repo_name": "zsh-autosuggestions"},
+    {"dep_class": "themes", "user_name": "romkatv", "repo_name": "powerlevel10k"}
+]
