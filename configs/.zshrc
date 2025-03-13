@@ -312,3 +312,7 @@ source ~/.local/share/zsh/themes/powerlevel10k/powerlevel10k.zsh-theme
 
 source ~/.local/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=244'
+
+if [[ "$TERM_PROGRAM" == "ghostty" ]]; then
+  export TERM=xterm-256color
+fi
